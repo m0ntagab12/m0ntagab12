@@ -6,15 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=montagabalhamawy&label=Profile%20views&color=0e75b6&style=flat" alt="montagabalhamawy" /> </p>
 
-- 🔭 I’m currently working on [3aqarat](https://3aqarat.vercel.app/)
-
 - 🌱 I’m currently learning **Next.JS**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://montagab.vercel.app/)
 
 - 💬 Ask me about **React , Next.js**
 
-- 📫 How to reach me **montagabalh@gmail.com**
+- 📫 How to reach me **montagab@qubefyn.com**
 
 - ⚡ Fun fact **I am Funny**
 
